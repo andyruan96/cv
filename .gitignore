@@ -8,6 +8,10 @@
 *.out
 *.toc
 
+# Allows PDF link to source code
+*.synctex.gz
+*.pdf
+
 ## Intermediate documents:
 *.dvi
 *-converted-to.*
@@ -20,4 +24,3 @@
 ### Mac OS X ###
 ## Mac OS X metadata files:
 *.DS_Store
-
