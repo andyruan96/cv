@@ -1,9 +1,5 @@
 ## Preview
 
-#### Resume
+Download [PDF](https://github.com/andyruan96/cv/raw/resume-front/resume.pdf)
 
-You can see [PDF](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)
-
-| Page. 1 | Page. 2 |
-|:---:|:---:|
-| [![Résumé](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-0.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)  | [![Résumé](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-1.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf) |
+[![Resume](https://github.com/andyruan96/cv/raw/resume-front/resume.png)](https://github.com/andyruan96/cv/raw/resume-front/resume.pdf)
