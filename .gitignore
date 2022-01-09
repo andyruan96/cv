@@ -10,7 +10,7 @@
 
 # Allows PDF link to source code
 *.synctex.gz
-*/*.pdf
+*/**/*.pdf
 
 ## Intermediate documents:
 *.dvi
